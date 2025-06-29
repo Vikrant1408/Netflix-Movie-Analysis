@@ -14,7 +14,7 @@ Here’s what you’ll find in this repo:
 - **`Netflix_movie_data_analysis.ipynb`** – The complete Jupyter Notebook with step-by-step analysis, visualizations, and insights.
 -  **`dataset.csv`** – The dataset I worked with (cleaned and ready to use).
 -  **`summary.md`** – A human-readable summary of the analysis (in case you don’t want to go through all the code).
-- **`images/`**  – Saved plots and charts for quick viewing or presentations.
+
 
 
 ##  What This Project Is About
@@ -29,7 +29,7 @@ I wanted to answer real questions that Netflix data could reveal, like:
 I used **Python**, along with **Pandas**, **Seaborn**, and **Matplotlib** to clean, explore, and visualize the data in a way that’s easy to understand.
 
 ---
-[Genre Chart](images/genre_distribution.png)
+
 
 ## 📊 Key Insights (Spoiler Alert!)
 
